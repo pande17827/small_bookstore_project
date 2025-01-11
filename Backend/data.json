@@ -1,0 +1,107 @@
+[
+    {
+        "name": "To Kill a Mockingbird",
+        "price": 399,
+        "category": "Fiction",
+        "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+        "title": "Harper Lee's Classic Novel"
+    },
+    {
+        "name": "1984",
+        "price": 299,
+        "category": "Dystopian",
+        "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+        "title": "George Orwell's Masterpiece"
+    },
+    {
+        "name": "The Great Gatsby",
+        "price": 349,
+        "category": "Classic",
+        "image": "https://covers.openlibrary.org/b/id/6511825-L.jpg",
+        "title": "F. Scott Fitzgerald's Iconic Work"
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "price": 299,
+        "category": "Classic",
+        "image": "https://covers.openlibrary.org/b/id/8225631-L.jpg",
+        "title": "J.D. Salinger's Masterwork"
+    },
+    {
+        "name": "Pride and Prejudice",
+        "price": 499,
+        "category": "Romance",
+        "image": "https://covers.openlibrary.org/b/id/8065717-L.jpg",
+        "title": "Jane Austen's Romantic Tale"
+    },
+    {
+        "name": "The Alchemist",
+        "price": 399,
+        "category": "Philosophical",
+        "image": "https://covers.openlibrary.org/b/id/8074850-L.jpg",
+        "title": "Paulo Coelho's Journey"
+    },
+    {
+        "name": "Sapiens",
+        "price": 599,
+        "category": "Non-Fiction",
+        "image": "https://covers.openlibrary.org/b/id/9251604-L.jpg",
+        "title": "Yuval Noah Harari's Insight"
+    },
+    {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "price": 699,
+        "category": "Fantasy",
+        "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg",
+        "title": "J.K. Rowling's Magical World"
+    },
+    {
+        "name": "The Hobbit",
+        "price": 499,
+        "category": "Fantasy",
+        "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+        "title": "J.R.R. Tolkien's Adventure"
+    },
+    {
+        "name": "Rich Dad Poor Dad",
+        "price": 399,
+        "category": "Self-Help",
+        "image": "https://covers.openlibrary.org/b/id/7004853-L.jpg",
+        "title": "Robert T. Kiyosaki's Financial Wisdom"
+    },
+    {
+        "name": "Atomic Habits",
+        "price": 449,
+        "category": "Self-Help",
+        "image": "https://covers.openlibrary.org/b/id/10330048-L.jpg",
+        "title": "James Clear's Practical Guide"
+    },
+    {
+        "name": "The Power of Habit",
+        "price": 399,
+        "category": "Self-Help",
+        "image": "https://covers.openlibrary.org/b/id/8244153-L.jpg",
+        "title": "Charles Duhigg's Behavioral Science"
+    },
+    {
+        "name": "Becoming",
+        "price": 499,
+        "category": "Biography",
+        "image": "https://covers.openlibrary.org/b/id/8750623-L.jpg",
+        "title": "Michelle Obama's Memoir"
+    },
+    {
+        "name": "Educated",
+        "price": 459,
+        "category": "Biography",
+        "image": "https://covers.openlibrary.org/b/id/8948877-L.jpg",
+        "title": "Tara Westover's Inspiring Story"
+    },
+    {
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "price": 499,
+        "category": "Self-Help",
+        "image": "https://covers.openlibrary.org/b/id/8245197-L.jpg",
+        "title": "Mark Manson's Real Talk"
+    }
+]
